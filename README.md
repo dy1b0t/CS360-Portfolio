@@ -102,7 +102,7 @@ I was particularly successful in implementing the SQLite data layer and integrat
 
 ---
 
-## 📂 What’s Uploaded
+## What’s Uploaded
 
 1. **`DylanMillerEventTracking_project3.zip`**  
    - Final Java source code from Project Three
